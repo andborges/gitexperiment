@@ -1,1 +1,2 @@
-"Second file" 
+"Second file"
+Other user changed
